@@ -17,7 +17,7 @@ body{
 }
 form{
     position: relative;
-    width: 380px;
+    width: 350px;
     height: 500px;
     backdrop-filter: blur(5px);
     font-size: 18px;
@@ -65,14 +65,13 @@ form{
 .checkbox{
     width: 75%;
     display: flex;
-    gap: 50px;
     align-items: center;
 }
 
 .checkbox p{
     font-size: 14px;
     cursor: pointer;
-    margin-left: 24px;
+    margin-left: 49px;
 }
 .checkbox label{
     font-weight:500;
@@ -83,7 +82,6 @@ form{
 
 .checkbox input{
     cursor: pointer;
-    margin-right: 4px;
 }
 
 .btn{
